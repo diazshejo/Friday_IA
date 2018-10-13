@@ -1,3 +1,4 @@
+#sdiaz
 from numpy import asarray, cumprod, convolve, exp, ones
 from numpy.random import lognormal, gamma, uniform
 
